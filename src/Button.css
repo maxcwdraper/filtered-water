@@ -4,7 +4,8 @@
   display: flex;
   position: absolute;
   background-color: #0f0999;
-  top: 40%;
+  border-radius: 15px;
+  top: 35%;
   left: 46%;
   justify-content: center;
   align-items: center;

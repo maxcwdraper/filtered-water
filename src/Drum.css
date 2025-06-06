@@ -2,13 +2,14 @@
   display: flex;
   padding: 2em;
   position: fixed;
-  width: 200px;
+  width: 12%;
   height: 14%;
-  top: 60%;
+  top: 50%;
   left: 44%;
+  border-radius: 10px;
   align-items: center;
   justify-content: center;
-  background-color: #313131;
+  background-color: #162325;
 }
 
 .contaminants {
@@ -16,5 +17,5 @@
   align-items: center;
   text-align: center;
   justify-content: center;
-  background-color: #313131;
+  background-color: #162325;
 }
