@@ -1,0 +1,11 @@
+.filter {
+  width: 8%;
+  height: 7%;
+  display: flex;
+  position: absolute;
+  background-color: #0f0999;
+  top: 40%;
+  left: 46%;
+  justify-content: center;
+  align-items: center;
+}
